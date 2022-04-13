@@ -1,46 +1,40 @@
 {
   "listings": [
     {
-      "id": 1,
-      "description": "heater",
+      "description": "New",
       "image": "./images/heater.jpg",
-      "location": "BROOKLYN"
+      "location": "HEre",
+      "id": 1
     },
     {
-      "id": 2,
-      "description": "2019 Toyota Tacoma grill",
-      "image": "./images/toyota-grill.jpg",
-      "location": "Williamsburg"
+      "description": "New Listing",
+      "image": "./images/heater.jpg",
+      "location": "Cleveland",
+      "id": 2
     },
     {
-      "id": 3,
-      "description": "Free Braun 3735 Electric Toothbrush charger",
-      "image": "./images/toothbrush-charger.jpg",
-      "location": "Williamsburg"
+      "description": "Testing",
+      "image": "./images/heater.jpg",
+      "location": "Location",
+      "id": 3
     },
     {
-      "id": 4,
-      "description": "FREE Hundreds of DVD/CD Cases - Different Sizes and Colors",
-      "image": "./images/dvd-cases.jpg",
-      "location": "Prospect Heights"
+      "description": "Description",
+      "image": "./images/heater.jpg",
+      "location": "Location",
+      "id": 4
     },
     {
-      "id": 5,
-      "description": "wood",
-      "image": "./images/wood.jpg",
-      "location": "Greenpoint"
+      "description": "New Description",
+      "image": "./images/heater.jpg",
+      "location": "New Location",
+      "id": 5
     },
     {
-      "id": 6,
-      "description": "Beautiful couch",
-      "image": "./images/couch.jpg",
-      "location": "Bay Ridge"
-    },
-    {
-      "id": 7,
-      "description": "Treadmill Parts For Free",
-      "image": "./images/treadmill.jpg",
-      "location": "East Flatbush"
+      "description": "Another one",
+      "image": "./images/heater.jpg",
+      "location": "Another location",
+      "id": 6
     }
   ]
 }
